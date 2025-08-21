@@ -8,3 +8,7 @@ Spring Cloud Config Server для предоставления конфигур�
    ```bash
    mvn clean install
    mvn spring-boot:run
+Конфигурация
+
+Порт: 8888
+Репозиторий конфигураций: https://github.com/art4000xxx/config-repo.git
